@@ -1,0 +1,13 @@
+{
+  "name": "js-drill-arrays",
+  "version": "1.0.0",
+  "description": "",
+  "main": "reduce.js",
+  "scripts": {
+    "start": "node test/testFlatten.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
